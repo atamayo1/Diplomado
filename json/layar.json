@@ -30,6 +30,22 @@
             "text": {
                 "title": "Calle de la escopeta"
             }
+           
+        },
+        {
+            "anchor": {
+                "geolocation": {
+                    "lat": 3.376720,
+                    "lon": -76.514595
+                }
+            },
+            "icon": {
+                "url": "https://github.com/atamayo1/Diplomado/blob/master/img/calle-de-la-escopeta.jpg"
+            },
+            "id": 3,
+            "text": {
+                "title": "Casa de Anthony"
+            }
         }],
     "layer": ""
 }
