@@ -8,11 +8,13 @@
                     "lon": -76.54172319999998
                 }
             },
+            "icon": {
+                "url": "https://github.com/atamayo1/Diplomado/blob/master/img/parque-umbria.png"
+            },
             "id": 1,
             "text": {
                 "title": "Parque de la umbria"
-            },
-            "imageUrl": "https://github.com/atamayo1/Diplomado/blob/master/img/parque-umbria.png"
+            }
         },
         {
             "anchor": {
@@ -37,9 +39,8 @@
                     "lon": -76.514595
                 }
             },
-            "icon": {
-                "url": "hhttps://github.com/atamayo1/Diplomado/blob/master/img/casa-de-anthony.png"
-            },
+             "imageUrl": "hhttps://github.com/atamayo1/Diplomado/blob/master/img/casa-de-anthony.png"
+            ,
             "id": 3,
             "text": {
                 "title": "Casa de Anthony"
