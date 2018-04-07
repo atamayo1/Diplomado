@@ -9,7 +9,7 @@
                 }
             },
             "icon": {
-                "url": "https://github.com/atamayo1/Diplomado/blob/master/img/parque-umbria.png"
+                "url": "img/parque-umbria.png"
             },
             "id": 1,
             "text": {
@@ -24,7 +24,7 @@
                 }
             },
             "icon": {
-                "url": "https://github.com/atamayo1/Diplomado/blob/master/img/calle-de-la-escopeta.jpg"
+                "url": "img/calle-de-la-escopeta.jpg"
             },
             "id": 2,
             "text": {
