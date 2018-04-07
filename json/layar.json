@@ -39,8 +39,9 @@
                     "lon": -76.514595
                 }
             },
-             "imageUrl": "hhttps://github.com/atamayo1/Diplomado/blob/master/img/casa-de-anthony.png"
-            ,
+            "icon": {
+                "url": "hhttps://github.com/atamayo1/Diplomado/blob/master/img/casa-de-anthony.png"
+            },
             "id": 3,
             "text": {
                 "title": "Casa de Anthony"
