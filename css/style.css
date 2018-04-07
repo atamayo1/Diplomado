@@ -1,0 +1,64 @@
+#map,
+#pano {
+  float: left;
+  height: 87%;
+  width: 50%; }
+
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway'; }
+
+ul {
+  list-style: none;
+  margin: 0;
+  background: midnightblue;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: center;
+  /* li.camara-ar{
+     flex-grow: 1; 
+    
+   }
+   li.logo{
+     flex-grow: 2;
+    
+   }*/ }
+
+ul a {
+  text-decoration: none;
+  display: block;
+  padding: 1em;
+  color: white; }
+
+ul a:hover {
+  background: dodgerblue;
+  cursor: pointer; }
+
+@media all and (max-width: 800px) {
+  ul {
+    justify-content: space-around; } }
+@media all and (max-width: 600px) {
+  ul {
+    -webkit-flex-flow: column wrap;
+    flex-flow: column wrap;
+    padding: 0; }
+
+  ul a {
+    text-align: center;
+    padding: 10px;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
+
+  ul li:last-of-type a {
+    border-bottom: none; } }
+video {
+  width: 100%;
+  height: 90%; }
+
+/*# sourceMappingURL=style.css.map */

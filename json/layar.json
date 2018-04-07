@@ -1,0 +1,21 @@
+{
+    "errorCode": 0,
+    "errorString": "ok",
+    "hotspots": [{
+            "anchor": {
+                "geolocation": {
+                    "lat": 3.3435907,
+                    "lon": -76.54196890000003
+                }
+            },
+            "icon": {
+                "url": "img/parque-umbria.png"
+            },
+            "id": 1,
+            "text": {
+                "title": "Parque de la umbria"
+            }
+        }
+    ],
+    "layer": ""
+}
