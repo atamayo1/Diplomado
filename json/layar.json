@@ -5,7 +5,7 @@
             "anchor": {
                 "geolocation": {
                     "lat": 3.3435907,
-                    "lon": -76.54196890000003
+                    "lon": -76.541968901
                 }
             },
             "icon": {
@@ -15,7 +15,23 @@
             "text": {
                 "title": "Parque de la umbria"
             }
+        },
+        {
+            "anchor": {
+                "geolocation": {
+                    "lat": 3.4506574,
+                    "lon": -76.53715
+                }
+            },
+            "icon": {
+                "url": "https://github.com/atamayo1/Diplomado/blob/master/img/parque-umbria.png"
+            },
+            "id": 2,
+            "text": {
+                "title": "Calle de la escopeta"
+            }
         }
+
     ],
     "layer": ""
 }
