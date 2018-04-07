@@ -30,7 +30,27 @@
             "text": {
                 "title": "Calle de la escopeta"
             }
+        },
+        {
+            "actions": [
+                {
+                    "contentType": "text/html",
+                    "label": "Visit our hotspots documentation!",
+                    "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+                }
+            ],
+            "anchor": {
+                "geolocation": {
+                    "lat": 3.3435907,
+                    "lon": -76.541968901
+                }
+            },
+            "id": 3,
+            "text": {
+                "title": "This POI has an action"
+            }
         }
+
 
     ],
     "layer": ""
